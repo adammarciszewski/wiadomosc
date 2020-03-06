@@ -1,1 +1,2 @@
 To jest wiadomosc nr 3.
+Edytuje wiadomosc trzecia.
